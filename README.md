@@ -7,7 +7,7 @@ The script only gathers information and interacts with the game via the DOM elem
 Functionalities include:
 
 - Calculating and setting the best price for paperclips.
-- Always selecting the winner of strategic modeling tourneys, by counting points as they happen.
+- Always selecting the winner of strategic modelling tourneys, by counting points as they happen.
 - Analyzing frames from the battle canvas.
 - Buying clippers, using trust, investing, building factories and drones, etc.
 
